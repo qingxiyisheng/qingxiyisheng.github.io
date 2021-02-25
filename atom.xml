@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qingxiyisheng.github.io</id>
     <title>情系一生</title>
-    <updated>2021-02-25T05:48:35.984Z</updated>
+    <updated>2021-02-25T07:02:13.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qingxiyisheng.github.io"/>
     <link rel="self" href="https://qingxiyisheng.github.io/atom.xml"/>
@@ -28,7 +28,7 @@
 <table width="494" border="1">
   <tr>
     <td rowspan="2" style="text-align: center"><span style="font-size: 24px">第1组</span><p /p><a href="mingxi\1.zip" style="font-size: 24px">下载</a></td>
-    <td width="90" style="text-align: center"><img src="images/1/zlj.jpg"width="90" height="120" /></td>
+    <td width="90" style="text-align: center"><img src="https://qingxiyisheng.github.io/images/1/zlj.jpg?v=1614231870090images"width="90" height="120" /></td>
     <td width="90" style="text-align: center"><img src="images/1/wcq.jpg"width="90" height="120" /></td>
     <td width="90" style="text-align: center"><img src="images/1/wbl.jpg"width="90" height="120" /></td>
     <td width="90" style="text-align: center"><img src="images/1/scn.jpg"width="90" height="120" /></td>
