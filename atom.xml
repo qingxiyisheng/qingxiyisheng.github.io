@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qingxiyisheng.github.io</id>
     <title>情系一生</title>
-    <updated>2021-02-25T09:03:14.612Z</updated>
+    <updated>2021-02-25T09:19:32.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qingxiyisheng.github.io"/>
     <link rel="self" href="https://qingxiyisheng.github.io/atom.xml"/>
@@ -16,96 +16,7 @@
         <link href="https://qingxiyisheng.github.io/post/xiazai/">
         </link>
         <updated>2021-02-25T05:02:00.000Z</updated>
-        <content type="html"><![CDATA[<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8" >
-<title>17计应五班分组 | 情系一生</title>
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="http://localhost:4000/favicon.ico?v=1614242689436">
-<link rel="stylesheet" href="http://localhost:4000/styles/main.css">
-<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
-<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-<pre><code>&lt;meta name=&quot;description&quot; content=&quot;
-</code></pre>
-<p>17计应五班分组</p>
-<p>17计应五班分组</p>
-<pre><code>第1组下载
-
-
-
-
-
-
-1701372544  张李婧
-1701372532  王程琪
-1701372531 ...&quot; /&gt;
-&lt;meta name=&quot;keywords&quot; content=&quot;&quot; /&gt;
-</code></pre>
-  </head>
-  <body>
-    <div id="app" class="main">
-<pre><code>  &lt;div class=&quot;sidebar&quot; :class=&quot;{ 'full-height': menuVisible }&quot;&gt;
-</code></pre>
-  <div class="top-container" data-aos="fade-right">
-    <div class="top-header-container">
-      <a class="site-title-container" href="http://localhost:4000">
-        <img src="http://localhost:4000/images/avatar.png?v=1614242689436" class="site-logo">
-        <h1 class="site-title">情系一生</h1>
-      </a>
-      <div class="menu-btn" @click="menuVisible = !menuVisible">
-        <div class="line"></div>
-      </div>
-    </div>
-    <div>
-<pre><code>      &lt;a href=&quot;/&quot; class=&quot;site-nav&quot;&gt;
-        首页
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;/archives&quot; class=&quot;site-nav&quot;&gt;
-        归档
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;/tags&quot; class=&quot;site-nav&quot;&gt;
-        标签
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;/post/about&quot; class=&quot;site-nav&quot;&gt;
-        关于
-      &lt;/a&gt;
-    
-  
-&lt;/div&gt;
-</code></pre>
-  </div>
-  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
-    <div class="social-container">
-<pre><code>&lt;/div&gt;
-&lt;div class=&quot;site-description&quot;&gt;
-  温故而知新
-&lt;/div&gt;
-&lt;div class=&quot;site-footer&quot;&gt;
-  Powered by &lt;a href=&quot;https://github.com/getgridea/gridea&quot; target=&quot;_blank&quot;&gt;Gridea&lt;/a&gt; | &lt;a class=&quot;rss&quot; href=&quot;http://localhost:4000/atom.xml&quot; target=&quot;_blank&quot;&gt;RSS&lt;/a&gt;
-&lt;/div&gt;
-</code></pre>
-  </div>
-</div>
-<pre><code>  &lt;div class=&quot;main-container&quot;&gt;
-    &lt;div class=&quot;content-container&quot; data-aos=&quot;fade-up&quot;&gt;
-      &lt;div class=&quot;post-detail&quot;&gt;
-        &lt;h2 class=&quot;post-title&quot;&gt;17计应五班分组&lt;/h2&gt;
-        &lt;div class=&quot;post-date&quot;&gt;2021-02-25&lt;/div&gt;
-        
-        &lt;div class=&quot;post-content&quot; v-pre&gt;
-          &lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD XHTML 1.0 Transitional//EN&quot; &quot;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&quot;&gt;
-</code></pre>
+        <content type="html"><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -117,10 +28,10 @@
 <table width="494" border="1">
   <tr>
     <td rowspan="2" style="text-align: center"><p /p><span style="font-size: 24px">第1组</span></td>
-    <td width="90" style="text-align: center"><img src="https://qingxiyisheng.github.io/images/1/zlj.jpg?v=1614231870090images"width="90" height="120" /></td>
-    <td width="90" style="text-align: center"><img src="https://qingxiyisheng.github.io/images/1/wcq.jpg?v=1614231870090images"width="90" height="120" /></td>
-    <td width="90" style="text-align: center"><img src="https://qingxiyisheng.github.io/images/1/wbl.jpg?v=1614231870090images"width="90" height="120" /></td>
-    <td width="90" style="text-align: center"><img src="https://qingxiyisheng.github.io/images/1/scn.jpg?v=1614231870090images"width="90" height="120" /></td>
+    <td width="90" style="text-align: center"><img src="https://qingxiyisheng.github.io/images/1/zlj.jpg"width="90" height="120" /></td>
+    <td width="90" style="text-align: center"><img src="https://qingxiyisheng.github.io/images/1/wcq.jpg"width="90" height="120" /></td>
+    <td width="90" style="text-align: center"><img src="https://qingxiyisheng.github.io/images/1/wbl.jpg"width="90" height="120" /></td>
+    <td width="90" style="text-align: center"><img src="https://qingxiyisheng.github.io/images/1/scn.jpg"width="90" height="120" /></td>
   </tr>
   <tr>
     <td style="text-align: center"><p align="center" style="font-size: 10px">1701372544  张李婧</p></td>
@@ -194,7 +105,7 @@
     </span></td>
     <td style="text-align: center"><img src="https://qingxiyisheng.github.io/images/6/wx.jpg"width="90" height="120" /></td>
     <td style="text-align: center"><img src="https://qingxiyisheng.github.io/images/6/qy.jpg"width="90" height="120" /></td>
-   <td style="text-align: center"><img src="https://qingxiyisheng.github.io/images/6/hpl.jpg"width="90" height="120" /></td>
+    <td style="text-align: center"><img src="https://qingxiyisheng.github.io/images/6/hpl.jpg"width="90" height="120" /></td>
     <td style="text-align: center"><img src="https://qingxiyisheng.github.io/images/6/wln.jpg"width="90" height="120" /></td>
   </tr>
   <tr>
@@ -235,7 +146,7 @@
   </tr>
   <tr>
     <td rowspan="2" style="text-align: center"><span style="font-size: 24px; text-align: center;">
-      <p /p>第9组
+      <p /p>第9组      
     </span></td>
     <td style="text-align: center"><img src="https://qingxiyisheng.github.io/images/9/gzx.jpg"width="90" height="120" /></td>
     <td style="text-align: center"><img src="https://qingxiyisheng.github.io/images/9/lyp.jpg"width="90" height="120" /></td>
@@ -281,43 +192,6 @@
 </table>
 </center> 
 </body>
-</html>
-<pre><code>        &lt;/div&gt;
-        
-        
-          &lt;div class=&quot;next-post&quot;&gt;
-            &lt;div class=&quot;next&quot;&gt;下一篇&lt;/div&gt;
-            &lt;a href=&quot;http://localhost:4000/post/jia/&quot;&gt;
-              &lt;h3 class=&quot;post-title&quot;&gt;
-                家
-              &lt;/h3&gt;
-            &lt;/a&gt;
-          &lt;/div&gt;
-        
-
-        
-
-      &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script src=&quot;https://unpkg.com/aos@next/dist/aos.js&quot;&gt;&lt;/script&gt;
-</code></pre>
-<script type="application/javascript">
-
-AOS.init();
-
-var app = new Vue({
-  el: '#app',
-  data: {
-    menuVisible: false,
-  },
-})
-
-</script>
-  </body>
 </html>
 ]]></content>
     </entry>
